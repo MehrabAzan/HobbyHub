@@ -78,7 +78,7 @@ GIF created with ...
 
 ## Notes
 
-Run `hobby-hub/supabase/schema.sql` in the Supabase SQL editor to add optional-feature columns and the `post-images` storage bucket. Make sure Row Level Security is disabled (or policies allow read/write) on `posts` and `comments`.
+
 
 ## License
 
